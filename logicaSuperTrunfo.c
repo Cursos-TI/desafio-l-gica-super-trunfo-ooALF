@@ -210,7 +210,7 @@ case 1:
       printf ("A Densidade Demográfica de %s foi %f \n A Densidade Demográfica de %s foi %f\n",cidade,deninverso,cidade2,deninverso2);
    } 
 
-   else if (turistico > turistico2){
+   else if (deninverso > deninverso2){
       printf ("%s venceu!!!\n",cidade2);
       printf ("Metodo de comparação foi Pontos turisticos\n");
       printf ("%s Contra %s\n",cidade2 ,cidade);
